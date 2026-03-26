@@ -47,12 +47,6 @@ This project focuses on detecting stress levels from textual data using Natural 
 - Requires high computational resources
 - Not suitable as a standalone mental health diagnostic tool
 
-## 🔮 Future Improvements
-- Use larger and more diverse datasets
-- Apply techniques like class balancing
-- Add explainability (SHAP/LIME)
-- Deploy as a web app for real-time predictions
-
 ## 💡 Use Cases
 - Mental health monitoring
 - Social media sentiment analysis
